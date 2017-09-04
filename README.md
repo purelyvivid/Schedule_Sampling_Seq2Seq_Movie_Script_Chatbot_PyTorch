@@ -1,4 +1,4 @@
-# Chatbot_PyTorch
+# Schedule Sampling Seq2Seq -- Movie_Script Chatbot -- PyTorch
 
 
 ### Objective
